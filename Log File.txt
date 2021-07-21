@@ -1,4 +1,8 @@
 #added by dell machine;
 # added by hp machine;
 
+<<<<<<< HEAD
 # this is third line by hp machine.
+=======
+# this is third line by Dell machine;
+>>>>>>> bf16f7dbb801fa7c76c0a69bc4585b7d8e5daebc
